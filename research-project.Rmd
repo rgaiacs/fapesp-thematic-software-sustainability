@@ -1,0 +1,48 @@
+---
+title: "Software Sustainability"
+author: "Raniere"
+output: html_document
+---
+<!--
+d) Research project of up to 40 pages for items d.1 to d.8, with line space 1.5, and font equivalent to Times New Roman 12. It is strongly suggested that the project be  organized according to the guidelines to format  Grants, including:
+
+d.1) Two cover pages (one in Portuguese and another one in English) with title of the proposed research project, name of the principal investigator, host institution, and a 20-line summary.
+-->
+
+## Statement of the problem
+
+## Expected results
+
+## Scientific and technological challenges, and the means and methods to meet them
+
+## Project schedule
+
+## Dissemination and evaluation
+
+## Other supports
+
+## References
+
+## Work plans
+
+### Technical Training
+
+### Scientific Initiation
+
+### Doctorate (applicant without MSc degree)
+
+### Post-Doctoral
+
+### Scientific Journalism
+
+### Pedagogical Skills
+
+## Budget
+
+### Consolidated Budget
+
+### FAPESP's Budget
+
+<!--
+Spreadsheets for items to be funded by FAPESP, one for each category of expense.
+-->
