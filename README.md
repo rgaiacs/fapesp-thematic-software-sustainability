@@ -61,50 +61,38 @@ Schedule
 --------
 
 - 2018
-
   - July
-
-    - Team leaders start working.
+    - Team leaders contract begins.
     - Team leaders create least of researchers to contact.
-
   - August
-
     - Team leaders start contact researchers.
-
   - September
-
+    - Advertise for Master starts
     - 2 Software and Data Carpentry Workshops
-
   - October
-
     - 2 Software and Data Carpentry Workshops
-
   - November
-
     - 2 Software and Data Carpentry Workshops
-
   - December
-
     - 2 Software and Data Carpentry Workshops
-
 - 2019
-
   - January
-
     - 2 Software and Data Carpentry Workshops
-
   - February
+    - Advertise for first open call
     - 2 Software and Data Carpentry Workshops
   - March
     - Master students start their programme.
     - 2 Software and Data Carpentry Workshops
   - April
+    - Research Software Developer contract begin.
     - 2 Software and Data Carpentry Workshops
   - May
     - 2 Software and Data Carpentry Workshops
   - June
     - 2 Software and Data Carpentry Workshops
   - July
+    - Communication Officer contract begins.
     - 2 Software and Data Carpentry Workshops
   - August
     - 2 Software and Data Carpentry Workshops
@@ -116,9 +104,7 @@ Schedule
     - 2 Software and Data Carpentry Workshops
   - December
     - 2 Software and Data Carpentry Workshops
-
 - 2020
-
   - January
     - 2 Software and Data Carpentry Workshops
   - February
@@ -143,9 +129,7 @@ Schedule
     - 2 Software and Data Carpentry Workshops
   - December
     - 2 Software and Data Carpentry Workshops
-
 - 2021
-
   - January
     - 2 Software and Data Carpentry Workshops
   - February
@@ -154,11 +138,14 @@ Schedule
     - Master students conclude their programme. 
     - 2 Software and Data Carpentry Workshops
   - April
+    - Research Software Developer contract ends.
     - 2 Software and Data Carpentry Workshops
   - May
+    - Team leaders write final report.
   - June
-
     - Team leaders delivery final report.
+    - Communication Officer contract ends.
+    - Team leaders contrac ends.
 
 Budget
 ------
@@ -171,7 +158,7 @@ Staffs
 - 24 months of FAPESP MS-II for automatation
 - 24 months of FAPESP MS-II of computational environment
 - 36 months of FAPESP TT-V for Project Developer Team Leader
-- 48 months of FAPESP TT-IV-A for Software Developer Consultant
+- 48 months of FAPESP TT-IV-A for Research Software Developer Consultant
 - 36 months of FAPESP JC-IV for Project Communication Team Leader
 - 24 months of FAPESP JC-II for Project Communication Officer
 
