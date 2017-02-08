@@ -1,17 +1,18 @@
 Research Reproducibility in Brazil
 ==================================
 
-As reported in some journals,
-we are living an research reproducibility crises
-when most of the research that could be reproducible
-by peers isn't because some computational assets,
-such as data and source code used,
-aren't available.
+We are living in the era of research reproducibility crisis [1]. 
+Increasingly research that could be reproducible cannot be reproduced due 
+to obstacles which could be avoided such as: lack of basic
+computational lab skills, not pulblishing data and source code
+used and so on.
 
-This project will investigate the reproducible status
-of Brazilian research in diferent domains
-and focus in three part of the reproducible problem
-named
+The reproducibility issue is present in the international 
+research arena. A growing number of countries focus addressing it.
+
+This project will investigate the reproducibility in  Brazilian research 
+accorss domains and projects. In particular we will focus on the
+following three problems:
 
 1. data management and distribution;
 2. automatation and version control; and
@@ -183,3 +184,7 @@ Software Carpentry and Data Carpentry
 - 12 travel and accommodation for staffs during workshops from from July/2019 to June/2020
 - 12 travel and accommodation for fellows during workshops from from July/2019 to June/2020
 - 12 travel and accommodation for fellows during workshops from July/2020 to June/2021
+
+
+[1]  Reproducibility in Science C. Glenn Begley and John P.A. Ioannidis Circulation Research. 2015;116:116-126, originally published December 31, 2014 https://doi.org/10.1161/CIRCRESAHA.114.303819
+
